@@ -1,2 +1,1 @@
-let a= "hello ";
-let b= "world  " ;
+let a= "hello";
